@@ -1,0 +1,10 @@
+---
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+
+_extends: gh-templates:.github/common-settings.yml
+
+repository:
+  name: "CookieCutter GitHub Project"
+  description: "Template for GitHub Projects with Cookiecutter"
+  homepage: "https://rwxd.github.io/cookiecutter-gh-project/"
+  topics: "github, templating, cookiecutter"

@@ -1,0 +1,5 @@
+repository:
+  name: "{{ cookiecutter.project_name }}"
+  description: "{{ cookiecutter.project_short_description }}"
+  homepage: "{{ cookiecutter.homepage }}"
+  topics: "{{ cookiecutter.topics }}"

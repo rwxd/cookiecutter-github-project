@@ -1,0 +1,19 @@
+{
+  "full_name": "rwxd",
+  "email": "rwxd@pm.me",
+  "github_username": "rwxd",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+  "homepage": "https://rwxd.github.io/{{ cookiecutter.project_slug }}/",
+  "project_type": ["python", "go", "ansible", "other"],
+  "topics": "",
+  "open_source_license": [
+    "MIT license",
+    "BSD license",
+    "ISC license",
+    "Apache Software License 2.0",
+    "GNU General Public License v3",
+    "Not open source"
+  ]
+}
